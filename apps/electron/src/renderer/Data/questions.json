@@ -1,0 +1,17 @@
+[
+  {
+    "text": "Jaki Framework został użyty do wykonania tej aplikacji?",
+    "answers": [".NET", "Electron", "Java"],
+    "correct": 1
+  },
+  {
+    "text": "Jaki język programowania został wykorzystany do utworzenia tej apliackji?",
+    "answers": ["C#", "C++", "Rust", "TypeScript", "JavaScrip", "Python"],
+    "correct": 3
+  },
+  {
+    "text": "Jaki edytor został wykorzystany do utworzenia tej apliackji?",
+    "answers": ["Visual Studio", "WebStrom", "Visual Studio Code"],
+    "correct": 2
+  }
+]
