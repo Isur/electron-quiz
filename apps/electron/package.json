@@ -29,8 +29,8 @@
     ]
   },
   "build": {
-    "productName": "ElectronReact",
-    "appId": "org.erb.ElectronReact",
+    "productName": "ElectronQuiz",
+    "appId": "org.erb.ElectronQuiz",
     "asar": true,
     "asarUnpack": "**\\*.{node,dll}",
     "files": [
@@ -88,8 +88,8 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "electron-react-boilerplate",
-      "repo": "electron-react-boilerplate"
+      "owner": "Isur",
+      "repo": "electron-quiz"
     }
   },
   "license": "MIT",
